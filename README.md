@@ -1,2 +1,3 @@
 # ideal-barnacle
-#titulo agopra vai 
+#titulo agora vai 
+estamos no caminho certo.
