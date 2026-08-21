@@ -1,2 +1,2 @@
 # ideal-barnacle
-lista de frases 
+#titulo agopra vai 
